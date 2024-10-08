@@ -44,7 +44,7 @@ tk
 
 3. Para executar.
 ```bash
-python transcricaook7.4.py
+python transcriber.py
 ```
 
 # Uso
